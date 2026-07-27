@@ -1,0 +1,12 @@
+{
+  "name": "dance-of-the-devils-mp",
+  "version": "1.0.0",
+  "description": "Dance of the Devils — Multiplayer Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
